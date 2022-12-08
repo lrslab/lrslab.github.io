@@ -1,0 +1,145 @@
+baseURL = "http://lrslab.github.io"
+title = "LRSlab@CityU"
+
+theme = "hugo-coder"
+
+languageCode = "en"
+defaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsStyle = "b2"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+
+#disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "LRS-Lab"
+    description = "Research group led by Dr. Runsheng LI in Department of Infectious Diseases and Public Health, City University of Hong Kong"
+    keywords = "Bioinformatics,Long read sequencing, DNA/RNA modification, Caenorhabditis elegans, Genetics"
+    info = "Long Read Sequencing WormLab @ CityU"
+    avatarURL = "images/mitovar_logo.png"
+    footerContent = "You are welcome to join us."
+
+    dateFormat = "June 16, 2020"
+
+    hideFooter = false
+    hideCredits = false
+    hideCopyright = false
+    since = 2020
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+    # Git Commit in Footer, uncomment the line below to enable it.
+    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+
+    rtl = false
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorScheme = "auto"
+
+    # Hide the toggle button, along with the associated vertical divider
+    hideColorSchemeToggle = true #false
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Enable Twemoji
+    enableTwemoji = true
+
+    # Custom CSS
+    customCSS = []
+
+    # Custom SCSS
+    customSCSS = []
+
+    # Custom JS
+    customJS = []
+
+# If you want to use fathom(https://usefathom.com) for analytics, add this section
+#[params.fathomAnalytics]
+#    siteID = "ABCDE"
+#    # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+#    serverURL = "analytics.example.com"
+
+# If you want to use plausible(https://plausible.io) for analytics, add this section
+#[params.plausibleAnalytics]
+#    domain = "example.com"
+#    # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
+#    serverURL = "analytics.example.com"
+
+# If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
+[params.goatCounter]
+    code = "code"
+
+# If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
+[params.cloudflare]
+    token = "token"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https://github.com/lrslab/"
+
+
+[languages]
+    [languages.en]
+        languageName = "English"
+
+        [languages.en.menu]
+
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 1
+            url = "about/"
+
+            [[languages.en.menu.main]]
+            name = "Publications"
+            weight = 2
+            url = "publications/"
+
+##            [[languages.en.menu.main]]
+##            name = "Projects"
+##            weight = 3
+##            url = "projects/"
+
+            [[languages.en.menu.main]]
+            name = "Software"
+            weight = 4
+            url = "software/"
+
+            [[languages.en.menu.main]]
+            name = "Members"
+            weight = 5
+            url = "members/"
+
+##            [[languages.en.menu.main]]
+##            name = "Documents"
+##            weight = 6
+##            url = "documents/"
+
+##            [[languages.en.menu.main]]
+##            name = "News"
+##            weight = 7
+##            url = "news/"
+
+            [[languages.en.menu.main]]
+            name = "Contact"
+            weight = 8
+            url = "contact/"
