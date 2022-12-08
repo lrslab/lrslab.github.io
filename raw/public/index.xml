@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LRSlab@CityU</title>
+    <link>http://lrslab.github.io/</link>
+    <description>Recent content on LRSlab@CityU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://lrslab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://lrslab.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lrslab.github.io/contact/</guid>
+      <description>We have open positions for research postgraduate students. Please send your CV to PI&amp;rsquo;s email if interested.
+Email: Runsheng.li AT CityU.edu.hk
+Address: Room 2-502, 5/F, Block 2, To Yuen Building, 31 To Yuen Street, City University of Hong Kong</description>
+    </item>
+    
+    <item>
+      <title>LRSLab@CityU</title>
+      <link>http://lrslab.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lrslab.github.io/about/</guid>
+      <description>Our group&amp;rsquo;s current research interest: Link to heading Developing applications/pipelines to accommodate the Nanopore DNA/RNA sequencing platform. Developing toolkits for genome assembly, scaffolding, finishing, improvement and comparative analysis. Studying the nucleotide modifications (like m6A) in RNAs (including viral/prokaryotic/eukaryotic RNAs). Mechanism of hybrid incompatibilities between Canorhabditis briggsae and nigoni. DNA modifications in acute myeloid leukemia (AML). Open positions: Link to heading Research student (PhD) position on bioinformatics. Research student (PhD) position on Canorhabditis based genetic research.</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>http://lrslab.github.io/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lrslab.github.io/members/</guid>
+      <description>LI Runsheng (李润生), DVM, PhD.
+Assistant Professor, PI Department of Infectious Diseases and Public Health, City University of Hong Kong TAN Lu, PhD student, Long read sequencing on ss+ RNA viruses. ZHANG Yiwen, PhD student, Hybrid incompatibility between C. briggsae and C. nigoni. GUO Zhihao, PhD student, Developing RNA modification calling methods in Nanopore direct-RNA sequencing. LIU Xudong, Research assistant, Developing genome scaffolding methods using DNA modification signals. SHAO Yanwen, Research assistant, Applications in long read RNAseq sequencing.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://lrslab.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lrslab.github.io/publications/</guid>
+      <description>Publications in recent five years: Link to heading Tan L,Zhang Y, Kim D#, Li R#. Insect-Specific Chimeric Viruses Potentiated Antiviral Responses and Inhibited Pathogenic Alphavirus Growth in Mosquito Cells. Microbiology Spectrum. 2023 (In press). Li R#, Ren X#, Ding Q, Bi Y, Xie D, Zhao Z: Direct full-length RNA sequencing reveals unexpected transcriptome complexity during Caenorhabditis elegans development. Genome Res 2020, 30:287-298. Zhang S#, Li R#, Zhang L, Chen S, Xie M, Yang L, Xia Y, Foyer CH, Zhao Z, Lam HM: New insights into Arabidopsis transcriptome complexity revealed by direct sequencing of native RNAs.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://lrslab.github.io/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lrslab.github.io/software/</guid>
+      <description>trackcluster -[Python] - trackcluster is an isoform calling and quantification pipeline for long RNA/cDNA reads
+mitovar -[Python] - mitovar is a pipeline used for mtDNA genome assembly from NGS reads.
+primerdiffer -[Python] - primerdiffer is a pipeline used to design primers in a large batch.
+prokm6A - prokm6A is a pipeline used to call m6A modification in prokaryotic mRNAs.</description>
+    </item>
+    
+  </channel>
+</rss>
