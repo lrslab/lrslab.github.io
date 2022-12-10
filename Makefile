@@ -4,8 +4,6 @@ build:
 
 update:
 	git pull;\
-	git add .;\
-	git push origin main
 
 publish:
 	cp raw/public/* .;\
