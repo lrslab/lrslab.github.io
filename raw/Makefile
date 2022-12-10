@@ -5,17 +5,18 @@ build:
 	hugo -D
 
 update:
+    cd ..;\
 	git pull;\
-	cd public;\
-	git pull
-
+	git add .;\
+	git push origin main
 
 publish:
+
 	cd public;\
+
 	git add .;\
 	git commit -m 'update';\
 	git push -u origin main;\
 	cd ..;\
 	git commit -m 'update raw';\
 	git push -u origin gh-pages
-
