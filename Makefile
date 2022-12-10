@@ -13,4 +13,4 @@ publish:
 	git commit -m 'update';\
 	git push -u origin main;\
 	git commit -m 'update raw';\
-	git push -u origin gh-pages
+	git push -u origin main:hg-pages

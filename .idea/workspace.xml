@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f250a4f-d88c-4c22-9470-b82858dd6af2" name="Changes" comment="update main">
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/raw/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/raw/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/raw/public/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/public/authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/raw/public/authors/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/raw/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/public/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/raw/public/contact/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/raw/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/public/members/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/raw/public/members/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/public/publications/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/raw/public/publications/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/public/series/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/raw/public/series/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/public/software/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/raw/public/software/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/raw/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +74,7 @@
       <workItem from="1670494155337" duration="1720000" />
       <workItem from="1670495881885" duration="1322000" />
       <workItem from="1670650367358" duration="1140000" />
-      <workItem from="1670682308055" duration="1261000" />
+      <workItem from="1670682308055" duration="1836000" />
     </task>
     <task id="LOCAL-00001" summary="update main">
       <created>1670496727056</created>
