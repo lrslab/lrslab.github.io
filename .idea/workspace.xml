@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f250a4f-d88c-4c22-9470-b82858dd6af2" name="Changes" comment="update main">
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw/static/images/mitovar_dsy026f1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw/content/software.md" beforeDir="false" afterPath="$PROJECT_DIR$/raw/content/software.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +37,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/raw/static/images" />
+      <recent name="$PROJECT_DIR$/raw/static/images/members" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/raw" />
     </key>
@@ -73,7 +78,9 @@
       <workItem from="1670494155337" duration="1720000" />
       <workItem from="1670495881885" duration="1322000" />
       <workItem from="1670650367358" duration="1140000" />
-      <workItem from="1670682308055" duration="2205000" />
+      <workItem from="1670682308055" duration="3049000" />
+      <workItem from="1672732993134" duration="3000" />
+      <workItem from="1674372173278" duration="565000" />
     </task>
     <task id="LOCAL-00001" summary="update main">
       <created>1670496727056</created>
