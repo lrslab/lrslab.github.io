@@ -52,7 +52,7 @@ Assistant Professor, PI Department of Infectious Diseases and Public Health, Cit
       
       <guid>http://lrslab.github.io/software/</guid>
       <description>trackcluster -[Python] - trackcluster is an isoform calling and quantification pipeline for long RNA/cDNA reads
-mitovar -[Python] - mitovar is a pipeline used for mtDNA genome assembly from NGS reads. -
+mitovar -[Python] - mitovar is a pipeline used for mtDNA genome assembly from NGS reads.
 primerdiffer -[Python] - primerdiffer is a pipeline used to design primers in a large batch.
 prokm6A - prokm6A is a pipeline used to call m6A modification in prokaryotic mRNAs.</description>
     </item>

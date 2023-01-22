@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f250a4f-d88c-4c22-9470-b82858dd6af2" name="Changes" comment="update main">
-      <change afterPath="$PROJECT_DIR$/raw/static/images/mitovar_dsy026f1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/Makefile" beforeDir="false" />
+    <list default="true" id="5f250a4f-d88c-4c22-9470-b82858dd6af2" name="Changes" comment="update pic link to local">
       <change beforePath="$PROJECT_DIR$/raw/content/software.md" beforeDir="false" afterPath="$PROJECT_DIR$/raw/content/software.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,19 +16,23 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IcwPP6A2BQHpxbB3XataudKTse" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/li/Dropbox/cvnew/lrslab.github.io&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "last_opened_file_path": "/Users/li/Dropbox/cvnew/lrslab.github.io",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -80,7 +81,7 @@
       <workItem from="1670650367358" duration="1140000" />
       <workItem from="1670682308055" duration="3049000" />
       <workItem from="1672732993134" duration="3000" />
-      <workItem from="1674372173278" duration="565000" />
+      <workItem from="1674372173278" duration="776000" />
     </task>
     <task id="LOCAL-00001" summary="update main">
       <created>1670496727056</created>
@@ -96,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670496992967</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update pic link to local">
+      <created>1674372839283</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674372839283</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,7 +122,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update main" />
-    <option name="LAST_COMMIT_MESSAGE" value="update main" />
+    <MESSAGE value="update pic link to local" />
+    <option name="LAST_COMMIT_MESSAGE" value="update pic link to local" />
   </component>
 </project>
