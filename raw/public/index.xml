@@ -54,7 +54,7 @@ Assistant Professor, PI Department of Infectious Diseases and Public Health, Cit
       <description>trackcluster -[Python] - trackcluster is an isoform calling and quantification pipeline for long RNA/cDNA reads
 mitovar -[Python] - mitovar is a pipeline used for mtDNA genome assembly from NGS reads.
 primerdiffer -[Python] - primerdiffer is a pipeline used to design primers in a large batch.
-primervcf - [Python] - primervcf is a sub-module for primerdiffer, to design haplotyping primers using vcf file:w prokm6A - prokm6A is a pipeline used to call m6A modification in prokaryotic mRNAs.</description>
+primervcf - [Python] - primervcf is a sub-module for primerdiffer, to design haplotyping primers using vcf file prokm6A - prokm6A is a pipeline used to call m6A modification in prokaryotic mRNAs.</description>
     </item>
     
   </channel>

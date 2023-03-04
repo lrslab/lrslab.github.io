@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5f250a4f-d88c-4c22-9470-b82858dd6af2" name="Changes" comment="update pic link to local">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/content/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/raw/content/publications.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/raw/content/software.md" beforeDir="false" afterPath="$PROJECT_DIR$/raw/content/software.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +84,7 @@
       <workItem from="1672732993134" duration="3000" />
       <workItem from="1674372173278" duration="2222000" />
       <workItem from="1674391560030" duration="682000" />
-      <workItem from="1677936531546" duration="658000" />
+      <workItem from="1677936531546" duration="1652000" />
     </task>
     <task id="LOCAL-00001" summary="update main">
       <created>1670496727056</created>
