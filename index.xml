@@ -42,7 +42,7 @@ Assistant Professor, PI Department of Infectious Diseases and Public Health, Cit
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://lrslab.github.io/publications/</guid>
-      <description>Publications in recent five years: Link to heading Tan L,Zhang Y, Kim D#, Li R#. Insect-Specific Chimeric Viruses Potentiated Antiviral Responses and Inhibited Pathogenic Alphavirus Growth in Mosquito Cells. Microbiology Spectrum. 2023 (In press). Li R#, Ren X#, Ding Q, Bi Y, Xie D, Zhao Z: Direct full-length RNA sequencing reveals unexpected transcriptome complexity during Caenorhabditis elegans development. Genome Res 2020, 30:287-298. Zhang S#, Li R#, Zhang L, Chen S, Xie M, Yang L, Xia Y, Foyer CH, Zhao Z, Lam HM: New insights into Arabidopsis transcriptome complexity revealed by direct sequencing of native RNAs.</description>
+      <description>Publications in recent five years: Link to heading Tan L,Zhang Y, Kim D#, Li R#. Insect-Specific Chimeric Viruses Potentiated Antiviral Responses and Inhibited Pathogenic Alphavirus Growth in Mosquito Cells. Microbiology Spectrum (2022): e03613-22. Li R#, Ren X#, Ding Q, Bi Y, Xie D, Zhao Z: Direct full-length RNA sequencing reveals unexpected transcriptome complexity during Caenorhabditis elegans development. Genome Res 2020, 30:287-298. Zhang S#, Li R#, Zhang L, Chen S, Xie M, Yang L, Xia Y, Foyer CH, Zhao Z, Lam HM: New insights into Arabidopsis transcriptome complexity revealed by direct sequencing of native RNAs.</description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@ Assistant Professor, PI Department of Infectious Diseases and Public Health, Cit
       <description>trackcluster -[Python] - trackcluster is an isoform calling and quantification pipeline for long RNA/cDNA reads
 mitovar -[Python] - mitovar is a pipeline used for mtDNA genome assembly from NGS reads.
 primerdiffer -[Python] - primerdiffer is a pipeline used to design primers in a large batch.
-prokm6A - prokm6A is a pipeline used to call m6A modification in prokaryotic mRNAs.</description>
+primervcf - [Python] - primervcf is a sub-module for primerdiffer, to design haplotyping primers using vcf file:w prokm6A - prokm6A is a pipeline used to call m6A modification in prokaryotic mRNAs.</description>
     </item>
     
   </channel>
