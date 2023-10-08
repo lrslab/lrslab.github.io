@@ -49,26 +49,32 @@ ZHANG Yiwen, PhD student, <br> Hybrid incompatibility between _C. briggsae_ and 
 <a href="https://scholars.cityu.edu.hk/en/persons/yiwen-zhang(363c3c5d-9603-4042-ae8c-539047a60983).html" aria-label="GoogleScholar">    
 <i class=" ai ai-google-scholar ai-2x" style="font-size: 150%;"></i></a> <br> 
 
-<img src="/images/members/gzh.jpeg" width='150px'></td> <br>
+<img src="https://avatars.githubusercontent.com/u/76717431" width='150px'></td> <br>
 GUO Zhihao, PhD student, <br> Developing RNA modification calling methods in Nanopore direct-RNA sequencing.
 <br>
 <a href="https://github.com/JeremyQuo" aria-label="Github"> 
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
 
-<img src="/images/members/lxd.jpeg" width='150px'></td> <br>
+<img src="https://avatars.githubusercontent.com/u/109017230" width='150px'></td> <br>
 LIU Xudong, Research assistant, <br> Developing genome scaffolding methods using DNA modification signals.
 <br>
 <a href="https://github.com/lxd98" aria-label="Github">
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
 
-<img src="/images/members/minion2.jpg" width='150px'></td> <br>
-SHAO Yanwen, Research assistant, <br> Applications in long read RNAseq sequencing.
+<img src="https://avatars.githubusercontent.com/u/97601038" width='150px'></td> <br>
+SHAO Yanwen, PhD student, <br> Applications in long read RNAseq sequencing.
 <br>
-<a href="https://github.com/lxd98" aria-label="Github">
+<a href="https://github.com/sz1875597589" aria-label="Github">
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
+
+<img src="https://avatars.githubusercontent.com/u/52870888" width='150px'></td> <br>
+LI Ke, PhD student, <br> Applications in long read DNA assembly.
+<br>
+<a href="https://github.com/nimua" aria-label="Github">
+<i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
+
     
 </tr> 
-
 
 
 

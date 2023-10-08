@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5f250a4f-d88c-4c22-9470-b82858dd6af2" name="Changes" comment="update pic link to local">
-      <change afterPath="$PROJECT_DIR$/raw/public/images/primerdiffer_btad188f1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw/static/images/primerdiffer_btad188f1.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw/content/members.md" beforeDir="false" afterPath="$PROJECT_DIR$/raw/content/members.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/raw/content/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/raw/content/publications.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/content/software.md" beforeDir="false" afterPath="$PROJECT_DIR$/raw/content/software.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/raw/public/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/public/publications/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/raw/public/publications/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/public/software/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/raw/public/software/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw/static/images/members/lrs.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw/static/images/members/lrs.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="kfzobhys" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -30,16 +32,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "true",
-    "last_opened_file_path": "/Users/li/Dropbox/cvnew/lrslab.github.io/raw/static/images",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/li/Dropbox/cvnew/lrslab.github.io/raw/static/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/raw/static/images" />
@@ -92,7 +99,10 @@
       <workItem from="1674372173278" duration="2222000" />
       <workItem from="1674391560030" duration="682000" />
       <workItem from="1677936531546" duration="2281000" />
-      <workItem from="1683112485820" duration="1465000" />
+      <workItem from="1683112485820" duration="1870000" />
+      <workItem from="1692457198533" duration="2833000" />
+      <workItem from="1693498520114" duration="731000" />
+      <workItem from="1696752258370" duration="1183000" />
     </task>
     <task id="LOCAL-00001" summary="update main">
       <created>1670496727056</created>

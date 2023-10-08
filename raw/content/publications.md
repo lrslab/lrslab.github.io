@@ -5,7 +5,9 @@ title: Publications
 
 ### Publications in recent five years:
 1. Ren, X., Shao, Y., Zhang, Y., Ni, Y., Bi, Y., & **Li, R**. (2023). Primerdiffer: a python command line module for large-scale primer design in haplotype genotyping. Bioinformatics, btad188.
-2. Ni, Y., Liu, X., Simeneh, Z. M., Yang, M., & **Li, R**. (2023). Benchmarking of Nanopore R10. 4 and R9. 4.1 flow cells in single-cell whole-genome amplification and whole-genome shotgun sequencing. Computational and Structural Biotechnology Journal, 21, 2352-2364.
+2. Liu, X., Ni, Y., Wang, D., Ye, S., Yang, M., Sun, X., Leung, A.Y.H#. and **Li, R#**., (2023). Unraveling the whole genome DNA methylation profile of zebrafish kidney marrow by Oxford Nanopore sequencing. Scientific Data, 10(1), p.532.
+3. Si, W., Ni, Y., Jiang, Q., Tan, L., Sparagano, O., **Li, R#**., & Yang, G#. (2023). Nanopore sequencing identifies differentially methylated genes in the central nervous system in experimental autoimmune encephalomyelitis. Journal of Neuroimmunology, 578134.
+3. Ni, Y., Liu, X., Simeneh, Z. M., Yang, M., & **Li, R**. (2023). Benchmarking of Nanopore R10. 4 and R9. 4.1 flow cells in single-cell whole-genome amplification and whole-genome shotgun sequencing. Computational and Structural Biotechnology Journal, 21, 2352-2364.
 3. Tan L,Zhang Y, Kim D#, **Li R#**. Insect-Specific Chimeric Viruses Potentiated Antiviral Responses and Inhibited Pathogenic Alphavirus Growth in Mosquito Cells. Microbiology Spectrum (2022): e03613-22. 
 4. **Li R**#, Ren X#, Ding Q, Bi Y, Xie D, Zhao Z: Direct full-length RNA sequencing reveals unexpected transcriptome complexity during Caenorhabditis elegans development. Genome Res 2020, 30:287-298.
 5. Zhang S#, **Li R**#, Zhang L, Chen S, Xie M, Yang L, Xia Y, Foyer CH, Zhao Z, Lam HM: New insights into Arabidopsis transcriptome complexity revealed by direct sequencing of native RNAs. Nucleic Acids Res 2020, 48:7700-7711. (#co-first author).
@@ -27,17 +29,17 @@ title: Publications
 21. Sun J, Chen C, Miyamoto N, **Li R**, Sigwart JD, Xu T, Sun Y, Wong WC, Ip JCH, Zhang W, et al: The Scaly-foot Snail genome and implications for the origins of biomineralised armour. Nat Commun 2020, 11:1657.
 22. Yang L, Perrera V, Saplaoura E, Apelt F, Bahin M, Kramdi A, Olas J, Mueller-Roeber B, Sokolowska E, Zhang W, **Li R**, et al: m(5)C Methylation Guides Systemic Transport of Messenger RNA over Graft Junctions in Plants. Curr Biol 2019, 29:2465-2476 e2465.
 23. Bi Y, Ren X, **Li R**, Ding Q, Xie D, Zhao Z: Specific Interactions Between Autosome and X Chromosomes Cause Hybrid Male Sterility in Caenorhabditis Species. Genetics 2019, 212:801-813.
-24. Li X, Cong R, Yao W, Jia Y, **Li R**, Sun Z, Li X, Zhao R: Glucocorticoid receptor is involved in the differential expression of hepatic 3β‐hydroxysteroid dehydrogenase between barrows and boars at finishing stage. Animal Science Journal 2018, 89:158-166.
 
 ### Other publications:
-23. **Li R**, Ren X, Bi Y, Zhao Z: Mitochondrial genome of Caenorhabditis nigoni (Rhabditida: Rhabditidae). Mitochondrial DNA A DNA Mapp Seq Anal 2016, 27:3107-3108.
-24. **Li R**#, Ren X#, Bi Y, Ho VWS, Hsieh C-L, Young A, Zhang Z, Lin T, Zhao Y, Miao L: Specific downregulation of spermatogenesis genes targeted by 22G RNAs in hybrid sterile males associated with an X-Chromosome introgression. Genome research 2016:gr. 204479.204116.
-25. **Li R**, Jia Y, Pan S, Li X, Song H, Zhao R: Glucocorticoid Receptor Mediates the Effect of High-Fat Diet on Mitochondrial Oxidative Phosphorylation in Mouse Liver. DNA Cell Biol 2016, 35:51-58.
-26. **Li R**, Hsieh CL, Young A, Zhang Z, Ren X, Zhao Z: Illumina Synthetic Long Read Sequencing Allows Recovery of Missing Sequences even in the "Finished" C. elegans Genome. Sci Rep 2015, 5:10814.
-27. **Li R**S, Jia YM, Zou HF, Zhao RQ: Breed-specific expression of DROSHA, DICER and AGO2 is regulated by glucocorticoid-mediated miRNAs in the liver of newborn piglets. Animal Genetics 2014, 45:817-826.
-28. **Li R**, Zou H, Jia Y, Zhao R: Glucocorticoid receptor is involved in the breed-dependent transcriptional regulation of mtDNA- and nuclear-encoded mitochondria genes in the liver of newborn piglets. BMC Vet Res 2013, 9:87.
-29. Zou H#, **Li R**#, Jia Y, Yang X, Ni Y, Cong R, Soloway PD, Zhao R: Breed-dependent transcriptional regulation of 5'-untranslated GR (NR3C1) exon 1 mRNA variants in the liver of newborn piglets. PLoS One 2012, 7:e40432.
-30. **Li R**, Sun Q, Jia Y, Cong R, Ni Y, Yang X, Jiang Z, Zhao R: Coordinated miRNA/mRNA expression profiles for understanding breed-specific metabolic characters of liver between Erhualian and large white pigs. PLoS One 2012, 7:e38716.
+1. Li X, Cong R, Yao W, Jia Y, **Li R**, Sun Z, Li X, Zhao R: Glucocorticoid receptor is involved in the differential expression of hepatic 3β‐hydroxysteroid dehydrogenase between barrows and boars at finishing stage. Animal Science Journal 2018, 89:158-166.
+2. **Li R**, Ren X, Bi Y, Zhao Z: Mitochondrial genome of Caenorhabditis nigoni (Rhabditida: Rhabditidae). Mitochondrial DNA A DNA Mapp Seq Anal 2016, 27:3107-3108.
+3. **Li R**#, Ren X#, Bi Y, Ho VWS, Hsieh C-L, Young A, Zhang Z, Lin T, Zhao Y, Miao L: Specific downregulation of spermatogenesis genes targeted by 22G RNAs in hybrid sterile males associated with an X-Chromosome introgression. Genome research 2016:gr. 204479.204116.
+4. **Li R**, Jia Y, Pan S, Li X, Song H, Zhao R: Glucocorticoid Receptor Mediates the Effect of High-Fat Diet on Mitochondrial Oxidative Phosphorylation in Mouse Liver. DNA Cell Biol 2016, 35:51-58.
+5. **Li R**, Hsieh CL, Young A, Zhang Z, Ren X, Zhao Z: Illumina Synthetic Long Read Sequencing Allows Recovery of Missing Sequences even in the "Finished" C. elegans Genome. Sci Rep 2015, 5:10814.
+6. **Li R**S, Jia YM, Zou HF, Zhao RQ: Breed-specific expression of DROSHA, DICER and AGO2 is regulated by glucocorticoid-mediated miRNAs in the liver of newborn piglets. Animal Genetics 2014, 45:817-826.
+7. **Li R**, Zou H, Jia Y, Zhao R: Glucocorticoid receptor is involved in the breed-dependent transcriptional regulation of mtDNA- and nuclear-encoded mitochondria genes in the liver of newborn piglets. BMC Vet Res 2013, 9:87.
+8. Zou H#, **Li R**#, Jia Y, Yang X, Ni Y, Cong R, Soloway PD, Zhao R: Breed-dependent transcriptional regulation of 5'-untranslated GR (NR3C1) exon 1 mRNA variants in the liver of newborn piglets. PLoS One 2012, 7:e40432.
+9. **Li R**, Sun Q, Jia Y, Cong R, Ni Y, Yang X, Jiang Z, Zhao R: Coordinated miRNA/mRNA expression profiles for understanding breed-specific metabolic characters of liver between Erhualian and large white pigs. PLoS One 2012, 7:e38716.
 
 
 
