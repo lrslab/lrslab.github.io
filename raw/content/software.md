@@ -14,5 +14,5 @@ title: Software
   - <img src="/images/primerdiffer_btad188f1.jpeg" width='300'>
   
 - [nanoCEM](https://github.com/lrslab/nanoCEM) -[Python] - [The nanopore current events magnifier (nanoCEM) is a python command line to facilitate the analysis of DNA/RNA modification sites by visualizing statistical features of current events.]
-  - <img src="https://github.com/lrslab/nanoCEM/blob/main/docs/Workflow.png" width='300'> 
+  - <img src="https://raw.githubusercontent.com/lrslab/nanoCEM/main/docs/Workflow.png" width='300'> 
   
