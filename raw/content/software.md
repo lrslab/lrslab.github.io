@@ -12,4 +12,7 @@ title: Software
 - [primerdiffer](https://github.com/runsheng/primerdiffer) -[Python] - [primerdiffer is a pipeline used to design primers in a large batch.](https://academic.oup.com/bioinformatics/article/39/4/btad188/7126407)
   - [primervcf](https://github.com/runsheng/primervcf) - [Python] - primervcf is a sub-module for primerdiffer, to design haplotyping primers using vcf file.
   - <img src="/images/primerdiffer_btad188f1.jpeg" width='300'>
-- [prokm6A](https://github.com/lrslab/prokm6A) - prokm6A is a pipeline used to call m6A modification in prokaryotic mRNAs.
+  
+- [nanoCEM](https://github.com/lrslab/nanoCEM) -[Python] - [The nanopore current events magnifier (nanoCEM) is a python command line to facilitate the analysis of DNA/RNA modification sites by visualizing statistical features of current events.]
+  - <img src="https://github.com/lrslab/nanoCEM/blob/main/docs/Workflow.png" width='300'> 
+  
