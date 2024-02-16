@@ -42,7 +42,7 @@ Assistant Professor, PI Department of Infectious Diseases and Public Health, Cit
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://lrslab.github.io/publications/</guid>
-      <description>Publications in recent five years: Link to heading Ren, X., Shao, Y., Zhang, Y., Ni, Y., Bi, Y., &amp;amp; Li, R. (2023). Primerdiffer: a python command line module for large-scale primer design in haplotype genotyping. Bioinformatics, btad188. Liu, X., Ni, Y., Wang, D., Ye, S., Yang, M., Sun, X., Leung, A.Y.H#. and Li, R#., (2023). Unraveling the whole genome DNA methylation profile of zebrafish kidney marrow by Oxford Nanopore sequencing.</description>
+      <description>Publications in recent five years: Link to heading Tan, L., Guo, Z., Wang, X., Kim, D. Y., &amp;amp; Li, R. (2024). Utilization of nanopore direct RNA sequencing to analyze viral RNA modifications. Msystems, e01163-23. Ren, X., Shao, Y., Zhang, Y., Ni, Y., Bi, Y., &amp;amp; Li, R. (2023). Primerdiffer: a python command line module for large-scale primer design in haplotype genotyping. Bioinformatics, btad188. Liu, X., Ni, Y., Wang, D., Ye, S.</description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@ Assistant Professor, PI Department of Infectious Diseases and Public Health, Cit
       <description>trackcluster -[Python] - trackcluster is an isoform calling and quantification pipeline for long RNA/cDNA reads
 mitovar -[Python] - mitovar is a pipeline used for mtDNA genome assembly from NGS reads.
 primerdiffer -[Python] - primerdiffer is a pipeline used to design primers in a large batch.
-primervcf - [Python] - primervcf is a sub-module for primerdiffer, to design haplotyping primers using vcf file. nanoCEM -[Python] - [The nanopore current events magnifier (nanoCEM) is a python command line to facilitate the analysis of DNA/RNA modification sites by visualizing statistical features of current events.</description>
+primervcf - [Python] - primervcf is a sub-module for primerdiffer, to design haplotyping primers using vcf file. nanoCEM -[Python] - The nanopore current events magnifier (nanoCEM) is a python command line to facilitate the analysis of DNA/RNA modification sites by visualizing statistical features of current events.</description>
     </item>
     
   </channel>

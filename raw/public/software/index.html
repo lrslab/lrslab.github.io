@@ -15,7 +15,7 @@
 <meta name="description" content="trackcluster -[Python] - trackcluster is an isoform calling and quantification pipeline for long RNA/cDNA reads
 mitovar -[Python] - mitovar is a pipeline used for mtDNA genome assembly from NGS reads.
 primerdiffer -[Python] - primerdiffer is a pipeline used to design primers in a large batch.
-primervcf - [Python] - primervcf is a sub-module for primerdiffer, to design haplotyping primers using vcf file. nanoCEM -[Python] - [The nanopore current events magnifier (nanoCEM) is a python command line to facilitate the analysis of DNA/RNA modification sites by visualizing statistical features of current events.">
+primervcf - [Python] - primervcf is a sub-module for primerdiffer, to design haplotyping primers using vcf file. nanoCEM -[Python] - The nanopore current events magnifier (nanoCEM) is a python command line to facilitate the analysis of DNA/RNA modification sites by visualizing statistical features of current events.">
 <meta name="keywords" content="Bioinformatics,Long read sequencing, DNA/RNA modification, Caenorhabditis elegans, Genetics">
 
 <meta name="twitter:card" content="summary"/>
@@ -23,13 +23,13 @@ primervcf - [Python] - primervcf is a sub-module for primerdiffer, to design hap
 <meta name="twitter:description" content="trackcluster -[Python] - trackcluster is an isoform calling and quantification pipeline for long RNA/cDNA reads
 mitovar -[Python] - mitovar is a pipeline used for mtDNA genome assembly from NGS reads.
 primerdiffer -[Python] - primerdiffer is a pipeline used to design primers in a large batch.
-primervcf - [Python] - primervcf is a sub-module for primerdiffer, to design haplotyping primers using vcf file. nanoCEM -[Python] - [The nanopore current events magnifier (nanoCEM) is a python command line to facilitate the analysis of DNA/RNA modification sites by visualizing statistical features of current events."/>
+primervcf - [Python] - primervcf is a sub-module for primerdiffer, to design haplotyping primers using vcf file. nanoCEM -[Python] - The nanopore current events magnifier (nanoCEM) is a python command line to facilitate the analysis of DNA/RNA modification sites by visualizing statistical features of current events."/>
 
 <meta property="og:title" content="Software" />
 <meta property="og:description" content="trackcluster -[Python] - trackcluster is an isoform calling and quantification pipeline for long RNA/cDNA reads
 mitovar -[Python] - mitovar is a pipeline used for mtDNA genome assembly from NGS reads.
 primerdiffer -[Python] - primerdiffer is a pipeline used to design primers in a large batch.
-primervcf - [Python] - primervcf is a sub-module for primerdiffer, to design haplotyping primers using vcf file. nanoCEM -[Python] - [The nanopore current events magnifier (nanoCEM) is a python command line to facilitate the analysis of DNA/RNA modification sites by visualizing statistical features of current events." />
+primervcf - [Python] - primervcf is a sub-module for primerdiffer, to design haplotyping primers using vcf file. nanoCEM -[Python] - The nanopore current events magnifier (nanoCEM) is a python command line to facilitate the analysis of DNA/RNA modification sites by visualizing statistical features of current events." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://lrslab.github.io/software/" /><meta property="article:section" content="" />
 
@@ -173,13 +173,36 @@ primervcf - [Python] - primervcf is a sub-module for primerdiffer, to design hap
 </ul>
 </li>
 <li>
-<p><a href="https://github.com/lrslab/nanoCEM">nanoCEM</a> -[Python] - [The nanopore current events magnifier (nanoCEM) is a python command line to facilitate the analysis of DNA/RNA modification sites by visualizing statistical features of current events.]</p>
+<p><a href="https://github.com/lrslab/nanoCEM">nanoCEM</a> -[Python] - The nanopore current events magnifier (nanoCEM) is a python command line to facilitate the analysis of DNA/RNA modification sites by visualizing statistical features of current events.</p>
 <ul>
 <li>
 <img src="https://raw.githubusercontent.com/lrslab/nanoCEM/main/docs/Workflow.png" width='300'> 
 </li>
 </ul>
 </li>
+<li>
+<p><a href="https://github.com/lrslab/Hammerhead">Hammerhead</a> - [Python] - Hammerhead is a pipeline for the detection of bacterial DNA modifications from Nanopore R10.4.1 reads.</p>
+<ul>
+<li>
+<img src="https://raw.githubusercontent.com/lrslab/Hammerhead/main/figure_demo/Demo_1.png" width='300'> 
+</li>
+</ul>
+</li>
+<li>
+<p><a href="https://github.com/lrslab/Giraffe_View">Giraffe</a> - [Python] - Giraffe is used for long read QC, can be used to calculate and visualize basic statistics for nanopore/pacbio long reads, including observed/estimated read quality; gc bias for reads; homopolymer accuracy and others.
+Some of these features has been used in our benchmarking papers on <a href="https://www.sciencedirect.com/science/article/pii/S2001037023001368">single cell DNA sequencing</a> and <a href="https://www.nature.com/articles/s41597-023-02431-5">DNA methylation profiling</a>.</p>
+<div class="highlight"><pre tabindex="0" style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>graph TD
+</span></span><span style="display:flex;"><span>    A(raw signal) -.-&gt; |Basecall| B(FASTA)
+</span></span><span style="display:flex;"><span>    A(raw signal) -.-&gt; |Basecall| C(modificated BED)
+</span></span><span style="display:flex;"><span>    C(modificated BED) --&gt; |modibin| D(modification distribution)
+</span></span><span style="display:flex;"><span>    B(FASTA) --&gt; |estimate|e(estimated accuracy)
+</span></span><span style="display:flex;"><span>    B(FASTA) --&gt; |observe| f(clean reads)
+</span></span><span style="display:flex;"><span>    f(clean reads) --&gt; |observe| g(aligned BAM)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    g(aligned BAM) --&gt; |observe|h(homopolymer identification)
+</span></span><span style="display:flex;"><span>     g(aligned BAM) --&gt; |observe|i(observed accuracy)
+</span></span><span style="display:flex;"><span>    g(aligned BAM) --&gt; |gcbias|j(GC bias) 
+</span></span></code></pre></div></li>
 </ul>
 
   </article>
