@@ -21,16 +21,4 @@ title: Software
   
 - [Giraffe](https://github.com/lrslab/Giraffe_View) - [Python] - Giraffe is used for long read QC, can be used to calculate and visualize basic statistics for nanopore/pacbio long reads, including observed/estimated read quality; gc bias for reads; homopolymer accuracy and others.
   Some of these features has been used in our benchmarking papers on [single cell DNA sequencing](https://www.sciencedirect.com/science/article/pii/S2001037023001368) and [DNA methylation profiling](https://www.nature.com/articles/s41597-023-02431-5). 
-    ```mermaid
-    graph TD
-        A(raw signal) -.-> |Basecall| B(FASTA)
-        A(raw signal) -.-> |Basecall| C(modificated BED)
-        C(modificated BED) --> |modibin| D(modification distribution)
-        B(FASTA) --> |estimate|e(estimated accuracy)
-        B(FASTA) --> |observe| f(clean reads)
-        f(clean reads) --> |observe| g(aligned BAM)
-        
-        g(aligned BAM) --> |observe|h(homopolymer identification)
-         g(aligned BAM) --> |observe|i(observed accuracy)
-        g(aligned BAM) --> |gcbias|j(GC bias) 
-    ```
+
