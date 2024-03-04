@@ -37,12 +37,6 @@ title: Members
 </table> 
 
 <tr>
-<img src="/images/members/minion2.jpg" width='150px'> <br>
-TAN Lu, PhD student, <br> Long read sequencing on ss+ RNA viruses.
-<br>
-<a href="https://scholars.cityu.edu.hk/en/persons/lu-tan(555e8ede-cc0f-4da9-b9b3-62ef54de27a4).html" aria-label="GoogleScholar">    
-<i class=" ai ai-google-scholar ai-2x" style="font-size: 150%;"></i></a> <br>
-
 
 <img src="/images/members/minion2.jpg" width='150px'><br>
 ZHANG Yiwen, PhD student, <br> Hybrid incompatibility between _C. briggsae_ and _C. nigoni_. 
@@ -74,6 +68,13 @@ LI Ke, PhD student, <br> Applications in long read DNA assembly.
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
 
     
+</tr> 
+
+<tr> 
+Former Lab Members:<br> 
+TAN Lu, PhD student from 2020-2023, now postdoc at university of iowa. 
+<a href="https://scholars.cityu.edu.hk/en/persons/lu-tan(555e8ede-cc0f-4da9-b9b3-62ef54de27a4).html" aria-label="GoogleScholar">    
+<i class=" ai ai-google-scholar ai-2x" style="font-size: 150%;"></i></a> <br>
 </tr> 
 
 
