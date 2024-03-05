@@ -3,7 +3,16 @@ slug: contact
 title: Contact
 ---
 
-We have open positions for research postgraduate students. Please send your CV to PI's email if interested. 
+We have open positions for research postgraduate students (PhD program). Please send your CV and your github account to PI's email if interested. 
+
+### update on 2024/03/05
+We have two PhD positions open for applications. The successful candidates will work on the following projects:
+1. Single cell RNA sequencing data analysis in Cardiovascular and deep learning (AI) based drug screening. This position will be co-supervisored with Dr. WANG Li (https://www.cityu.edu.hk/bms/profile/liwang.htm), who is an expert in cardiovascular research.
+2. Nanopore sequencing data analysis in single cell DNA sequencing, like the sequencing for circulating tumor cells (CTCs). 
+
+The basic requirements for the candidates are:
+1. A bachelor/master degree on bioinformatics, computer science, statistics, or related fields.
+2. Knowing at least one program language, like Python, R, Javascript, Rust or C++.
 
 Email: Runsheng.li AT CityU.edu.hk
 
