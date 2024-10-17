@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f250a4f-d88c-4c22-9470-b82858dd6af2" name="Changes" comment="update members">
+      <change afterPath="$PROJECT_DIR$/raw/static/images/members/wxy.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/content/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/raw/content/contact.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/raw/content/members.md" beforeDir="false" afterPath="$PROJECT_DIR$/raw/content/members.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/content/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/raw/content/publications.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/content/software.md" beforeDir="false" afterPath="$PROJECT_DIR$/raw/content/software.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +71,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/raw/static/images" />
       <recent name="$PROJECT_DIR$/raw/static/images/members" />
+      <recent name="$PROJECT_DIR$/raw/static/images" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/raw" />
     </key>
@@ -139,7 +137,8 @@
       <workItem from="1709603865347" duration="5469000" />
       <workItem from="1721836574771" duration="1536000" />
       <workItem from="1722742966238" duration="1544000" />
-      <workItem from="1728963380031" duration="8820000" />
+      <workItem from="1728963380031" duration="9453000" />
+      <workItem from="1729143586414" duration="170000" />
     </task>
     <task id="LOCAL-00001" summary="update main">
       <created>1670496727056</created>

@@ -67,7 +67,7 @@ LI Ke, PhD student, <br> Application and analysis of non-conding repetitive sequ
 <a href="https://github.com/nimua" aria-label="Github">
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
 
-<img src="/images/members/minion2.jpg" width='150px'><br>
+<img src="/images/members/wxy.jpeg" width='150px'><br>
 WU Xinyao, PhD student, <br> Locating the F1 male sterility related gene using introgression strains between _C. briggsae_ and _C. nigoni_. 
  <br> 
 
@@ -82,7 +82,9 @@ Former Lab Members:<br>
 TAN Lu, PhD student from 2020-2023, now postdoc at university of iowa. 
 <a href="https://scholars.cityu.edu.hk/en/persons/lu-tan(555e8ede-cc0f-4da9-b9b3-62ef54de27a4).html" aria-label="GoogleScholar">    
 <i class=" ai ai-google-scholar ai-2x" style="font-size: 150%;"></i></a> <br>
+<br>
 </tr> 
+
 
 <tr> 
 Visiting students:<br> 
