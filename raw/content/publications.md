@@ -4,8 +4,10 @@ title: Publications
 ---
 
 ### Publications in recent five years:
-1. Tan, L., Guo, Z., Shao, Y., Ye, L., Wang, M., Deng, X., Chen, S., & **Li, R**. (2024). Analysis of bacterial transcriptome and epitranscriptome using nanopore direct RNA sequencing. Nucleic Acids Research, gkae601.
-2. Guo, Z., Ni, Y., Tan, L., Shao, Y., Ye, L., Chen, S., & **Li, R**. (2024). Nanopore Current Events Magnifier (nanoCEM): a novel tool for visualizing current events at modification sites of nanopore sequencing. NAR Genomics and Bioinformatics, 6(2), lqae052.
+1. Liu, X., Ni, Y., Ye, L., Guo, Z., Tan, L., Li, J., ... & **Li, R**. (2024). Nanopore strand-specific mismatch enables de novo detection of bacterial DNA modifications. Genome Research, gr-279012.
+2. Tan, L., Guo, Z., Shao, Y., Ye, L., Wang, M., Deng, X., Chen, S., & **Li, R**. (2024). Analysis of bacterial transcriptome and epitranscriptome using nanopore direct RNA sequencing. Nucleic Acids Research, gkae601.
+3. Liu, X., Shao, Y., Guo, Z., Ni, Y., Sun, X., Leung, A. Y. H., & Li, R. (2024). Giraffe: a tool for comprehensive processing and visualization of multiple long-read sequencing data. CSBJ, 2024.
+4. Guo, Z., Ni, Y., Tan, L., Shao, Y., Ye, L., Chen, S., & **Li, R**. (2024). Nanopore Current Events Magnifier (nanoCEM): a novel tool for visualizing current events at modification sites of nanopore sequencing. NAR Genomics and Bioinformatics, 6(2), lqae052.
 3. Tan, L., Guo, Z., Wang, X., Kim, D. Y., & **Li, R**. (2024). Utilization of nanopore direct RNA sequencing to analyze viral RNA modifications. Msystems, e01163-23.
 3. Wang, X., Liu, X., Tan, L., Jahangiri, L., Cai, W., & **Li, R**. (2024). Chromosome level genome assembly and transcriptome analysis of E11 cells infected by tilapia lake virus. Fish & Shellfish Immunology, 148, 109505.
 4. Ye, L., Liu, X., Ni, Y., Xu, Y., Zheng, Z., Chen, K., ... & **Li, R**#, Chen, S#. (2024). Comprehensive genomic and plasmid characterization of multidrug-resistant bacterial strains by R10. 4.1 nanopore sequencing. Microbiological Research, 283, 127666.

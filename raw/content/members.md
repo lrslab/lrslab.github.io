@@ -62,11 +62,18 @@ SHAO Yanwen, PhD student, <br> Applications in long read RNAseq sequencing.
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
 
 <img src="https://avatars.githubusercontent.com/u/52870888" width='150px'></td> <br>
-LI Ke, PhD student, <br> Applications in long read DNA assembly.
+LI Ke, PhD student, <br> Application and analysis of non-conding repetitive sequences using bith long and short read sequencing.
 <br>
 <a href="https://github.com/nimua" aria-label="Github">
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
 
+<img src="/images/members/minion2.jpg" width='150px'><br>
+WU Xinyao, PhD student, <br> Locating the F1 male sterility related gene using introgression strains between _C. briggsae_ and _C. nigoni_. 
+ <br> 
+
+<img src="/images/members/minion2.jpg" width='150px'><br>
+JIANG Qingqiu, master student, <br> Currently working on the directRNA sequencing of TGEV.  
+ <br> 
     
 </tr> 
 
@@ -77,7 +84,11 @@ TAN Lu, PhD student from 2020-2023, now postdoc at university of iowa.
 <i class=" ai ai-google-scholar ai-2x" style="font-size: 150%;"></i></a> <br>
 </tr> 
 
-
+<tr> 
+Visiting students:<br> 
+ZHONG Zhaoyan, Visiting student from 2023/07-2023/10, PhD student at Ocean University of China. <br> 
+LI Chuyu, Visiting student from 2024/08-2024/10, PhD student at Ocean University of China. <br>
+</tr> 
 
 
 

@@ -13,8 +13,8 @@
       
       <guid>http://lrslab.github.io/contact/</guid>
       <description>We have open positions for research postgraduate students (PhD program). Please send your CV and your github account to PI&amp;rsquo;s email if interested.
-update on 2024/03/05 Link to heading We have two PhD positions open for applications. The successful candidates will work on the following projects:
-Single cell RNA sequencing data analysis in Cardiovascular and deep learning (AI) based drug screening. This position will be co-supervisored with Dr. WANG Li (https://www.</description>
+update on 2024/10/05 Link to heading We have two PhD positions open for applications. The successful candidates will work on the following projects:
+Nanopore sequencing data analysis in single cell DNA sequencing, like the sequencing for circulating tumor cells (CTCs). Method development for DNA/RNA modification finding using nanopore sequencing.</description>
     </item>
     
     <item>
@@ -33,7 +33,7 @@ Single cell RNA sequencing data analysis in Cardiovascular and deep learning (AI
       
       <guid>http://lrslab.github.io/members/</guid>
       <description>LI Runsheng (李润生), DVM, PhD.
-Assistant Professor, PI Department of Infectious Diseases and Public Health, City University of Hong Kong ZHANG Yiwen, PhD student, Hybrid incompatibility between C. briggsae and C. nigoni. GUO Zhihao, PhD student, Developing RNA modification calling methods in Nanopore direct-RNA sequencing. LIU Xudong, Research assistant, Developing genome scaffolding methods using DNA modification signals. SHAO Yanwen, PhD student, Applications in long read RNAseq sequencing. LI Ke, PhD student, Applications in long read DNA assembly.</description>
+Assistant Professor, PI Department of Infectious Diseases and Public Health, City University of Hong Kong ZHANG Yiwen, PhD student, Hybrid incompatibility between C. briggsae and C. nigoni. GUO Zhihao, PhD student, Developing RNA modification calling methods in Nanopore direct-RNA sequencing. LIU Xudong, Research assistant, Developing genome scaffolding methods using DNA modification signals. SHAO Yanwen, PhD student, Applications in long read RNAseq sequencing. LI Ke, PhD student, Application and analysis of non-conding repetitive sequences using bith long and short read sequencing.</description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@ Assistant Professor, PI Department of Infectious Diseases and Public Health, Cit
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://lrslab.github.io/publications/</guid>
-      <description>Publications in recent five years: Link to heading Tan, L., Guo, Z., Shao, Y., Ye, L., Wang, M., Deng, X., Chen, S., &amp;amp; Li, R. (2024). Analysis of bacterial transcriptome and epitranscriptome using nanopore direct RNA sequencing. Nucleic Acids Research, gkae601. Guo, Z., Ni, Y., Tan, L., Shao, Y., Ye, L., Chen, S., &amp;amp; Li, R. (2024). Nanopore Current Events Magnifier (nanoCEM): a novel tool for visualizing current events at modification sites of nanopore sequencing.</description>
+      <description>Publications in recent five years: Link to heading Liu, X., Ni, Y., Ye, L., Guo, Z., Tan, L., Li, J., &amp;hellip; &amp;amp; Li, R. (2024). Nanopore strand-specific mismatch enables de novo detection of bacterial DNA modifications. Genome Research, gr-279012. Tan, L., Guo, Z., Shao, Y., Ye, L., Wang, M., Deng, X., Chen, S., &amp;amp; Li, R. (2024). Analysis of bacterial transcriptome and epitranscriptome using nanopore direct RNA sequencing. Nucleic Acids Research, gkae601.</description>
     </item>
     
     <item>
@@ -51,10 +51,9 @@ Assistant Professor, PI Department of Infectious Diseases and Public Health, Cit
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://lrslab.github.io/software/</guid>
-      <description>trackcluster -[Python] - trackcluster is an isoform calling and quantification pipeline for long RNA/cDNA reads
-mitovar -[Python] - mitovar is a pipeline used for mtDNA genome assembly from NGS reads.
-primerdiffer -[Python] - primerdiffer is a pipeline used to design primers in a large batch.
-primervcf - [Python] - primervcf is a sub-module for primerdiffer, to design haplotyping primers using vcf file. nanoCEM -[Python] - The nanopore current events magnifier (nanoCEM) is a python command line to facilitate the analysis of DNA/RNA modification sites by visualizing statistical features of current events.</description>
+      <description>Hammerhead - [Python] - Hammerhead is a pipeline for the detection of bacterial DNA modifications and fix modification induced assembly error from Nanopore R10.4.1 reads. Published in Genome Research, 2024
+nanoCEM -[Python] - The nanopore current events magnifier (nanoCEM) is a python command line to facilitate the analysis of DNA/RNA modification sites by visualizing statistical features of current events. Published in NARGAB, 2024
+Giraffe - [Python] - Giraffe is used for long read QC, can be used to calculate and visualize basic statistics for nanopore/pacbio long reads, including observed/estimated read quality; gc bias for reads; homopolymer accuracy and others.</description>
     </item>
     
   </channel>
