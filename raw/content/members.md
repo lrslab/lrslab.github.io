@@ -74,10 +74,9 @@ WU Xinyao, PhD student, <br> Locating the F1 male sterility related gene using i
 
 <img src="https://avatars.githubusercontent.com/u/185667602" width='150px'></td> <br>
 JIANG Qingqiu, master student, <br> Currently working on the directRNA sequencing of TGEV.  
- <br> 
 <a href="https://github.com/Camellia-lucky" aria-label="Github">
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-
+ <br> 
 
     
 </tr> 
@@ -87,11 +86,9 @@ Former Lab Members:<br>
 TAN Lu, PhD student from 2020-2023, now postdoc at university of iowa. 
 <a href="https://scholars.cityu.edu.hk/en/persons/lu-tan(555e8ede-cc0f-4da9-b9b3-62ef54de27a4).html" aria-label="GoogleScholar">    
 <i class=" ai ai-google-scholar ai-2x" style="font-size: 150%;"></i></a> <br>
-<br>
 </tr> 
 
 <br>
-
 <tr> 
 Visiting students:<br> 
 ZHONG Zhaoyan, Visiting student from 2023/07-2023/10, PhD student at Ocean University of China. <br> 
