@@ -67,13 +67,18 @@ LI Ke, PhD student, <br> Application and analysis of non-conding repetitive sequ
 <a href="https://github.com/nimua" aria-label="Github">
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
 
+
 <img src="/images/members/wxy.jpeg" width='150px'><br>
 WU Xinyao, PhD student, <br> Locating the F1 male sterility related gene using introgression strains between _C. briggsae_ and _C. nigoni_. 
  <br> 
 
-<img src="/images/members/minion2.jpg" width='150px'><br>
+<img src="https://avatars.githubusercontent.com/u/185667602" width='150px'></td> <br>
 JIANG Qingqiu, master student, <br> Currently working on the directRNA sequencing of TGEV.  
  <br> 
+<a href="https://github.com/Camellia-lucky" aria-label="Github">
+<i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
+
+
     
 </tr> 
 
