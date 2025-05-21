@@ -14,7 +14,6 @@ title: Software
     - <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2001037024002629-gr1.jpg" width='300'>
 
 - [ANASFV](https://github.com/lrslab/anasfv) - [Python] - ANASFV is a pipeline used for the analysis of african swine fever virus. [Manuscript preprint] (https://www.biorxiv.org/content/10.1101/2024.07.08.602471v1)
-    - <img src="https://www.biorxiv.org/content/biorxiv/early/2024/07/11/2024.07.08.602471/F1.medium.gif" width='300'>
 
 - [trackcluster](https://github.com/runsheng/trackcluster) -[Python] - trackcluster is an isoform calling and quantification pipeline for long RNA/cDNA reads. [Published in _**Genome Research, 2020**_](https://genome.cshlp.org/content/30/2/287.short)
   - <img src="https://genome.cshlp.org/content/30/2/287/F2.large.jpg"  width="300">

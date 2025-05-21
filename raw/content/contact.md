@@ -5,14 +5,21 @@ title: Contact
 
 We have open positions for research postgraduate students (PhD program). Please send your CV and your github account to PI's email if interested. 
 
-### update on 2024/10/05
-We have two PhD positions open for applications. The successful candidates will work on the following projects:
-1. Nanopore sequencing data analysis in single cell DNA sequencing, like the sequencing for circulating tumor cells (CTCs). 
+### update on 2025/05/21
+We have PhD positions open for applications. The successful candidates will work on the following projects:
+1. Genetics related research on hybrid incompatibility between _C. briggsae_ and _C. nigoni_.
 2. Method development for DNA/RNA modification finding using nanopore sequencing. 
 
 The basic requirements for the candidates are:
+
+Dry lab: 
+
 1. A bachelor/master degree on bioinformatics, computational biology, computer science, statistics, or related fields.
 2. Knowing at least one program language, like Python, R, Javascript, Rust or C++.
+
+Wet lab:
+
+1. Know basic worm handling, like worm injection, screening and maintaining.
 
 Email: Runsheng.li AT CityU.edu.hk
 

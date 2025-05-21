@@ -3,16 +3,28 @@ slug: publications
 title: Publications
 ---
 
-### Publications in recent five years:
+## Publications in recent five years:
+
+### 2025
+1. Lu, B., Guo, Z., Liu, X., Ni, Y., Xu, L., Huang, J., Li, T., Feng, T., **Li, R.**# and Deng, X.#, 2025. Comprehensive comparison of the third-generation sequencing tools for bacterial 6mA profiling. Nature Communications, 16(1), p.3982. (#co-corresponding author)
+2. Liu, T., Liu, X., Dai, X., Huang, J., **Li, R.**, Wang, L. and Wang, X., 2025. Characterization of the ribosomal RNA methylase gene erm (A) and its promoter mutation in Campylobacter coli from chicken cecum. International Journal of Food Microbiology, 434, p.111138.
+3. Zhang, Y., Shao, Y., Liu, X., Zhong, L., Zhong, Z., Zeng, W., Zhang, J., Cai, W. and **Li, R.**, 2025. Chromosome-level genome assembly of black carp Mylopharyngodon piceus using Nanopore and Hi-C technologies. Scientific data, 12(1), p.145.
+4. GUO, Z., SHAO, Y., TAN, L., Lu, B., Deng, X., CHEN, S. and **Li, R.**, 2025. Enhanced Detection of RNA Modifications in Escherichia coli Utilizing Nanopore RNA004 Technology. bioRxiv, pp.2025-01.
+5. Zan, G.X., Qu, H.Z., Li, X.Y., Peng, Q.L., Wang, X.F., **Li, R.S.**, Zhao, Y.G., Yan, H.C., Zhou, J.Y. and Wang, X.Q., 2025. Iturin A Potentiates Differentiation of Intestinal Epithelial Defense Cells by Modulating Keap1/Nrf2 Signaling to Mitigate Oxidative Damage Induced by Heat-Stable Enterotoxin B. Antioxidants, 14(4), p.478.
+
+
+### 2024
 1. Liu, X., Ni, Y., Ye, L., Guo, Z., Tan, L., Li, J., ... & **Li, R**. (2024). Nanopore strand-specific mismatch enables de novo detection of bacterial DNA modifications. Genome Research, gr-279012.
 2. Tan, L., Guo, Z., Shao, Y., Ye, L., Wang, M., Deng, X., Chen, S., & **Li, R**. (2024). Analysis of bacterial transcriptome and epitranscriptome using nanopore direct RNA sequencing. Nucleic Acids Research, gkae601.
-3. Liu, X., Shao, Y., Guo, Z., Ni, Y., Sun, X., Leung, A. Y. H., & Li, R. (2024). Giraffe: a tool for comprehensive processing and visualization of multiple long-read sequencing data. CSBJ, 2024.
+3. Liu, X., Shao, Y., Guo, Z., Ni, Y., Sun, X., Leung, A. Y. H., & **Li, R.** (2024). Giraffe: a tool for comprehensive processing and visualization of multiple long-read sequencing data. CSBJ, 2024.
 4. Guo, Z., Ni, Y., Tan, L., Shao, Y., Ye, L., Chen, S., & **Li, R**. (2024). Nanopore Current Events Magnifier (nanoCEM): a novel tool for visualizing current events at modification sites of nanopore sequencing. NAR Genomics and Bioinformatics, 6(2), lqae052.
-3. Tan, L., Guo, Z., Wang, X., Kim, D. Y., & **Li, R**. (2024). Utilization of nanopore direct RNA sequencing to analyze viral RNA modifications. Msystems, e01163-23.
-3. Wang, X., Liu, X., Tan, L., Jahangiri, L., Cai, W., & **Li, R**. (2024). Chromosome level genome assembly and transcriptome analysis of E11 cells infected by tilapia lake virus. Fish & Shellfish Immunology, 148, 109505.
-4. Ye, L., Liu, X., Ni, Y., Xu, Y., Zheng, Z., Chen, K., ... & **Li, R**#, Chen, S#. (2024). Comprehensive genomic and plasmid characterization of multidrug-resistant bacterial strains by R10. 4.1 nanopore sequencing. Microbiological Research, 283, 127666.
-5. Ren, X., Shao, Y., Zhang, Y., Ni, Y., Bi, Y., & **Li, R**. (2023). Primerdiffer: a python command line module for large-scale primer design in haplotype genotyping. Bioinformatics, btad188.
-6. Liu, X., Ni, Y., Wang, D., Ye, S., Yang, M., Sun, X., Leung, A.Y.H#. and **Li, R#**., (2023). Unraveling the whole genome DNA methylation profile of zebrafish kidney marrow by Oxford Nanopore sequencing. Scientific Data, 10(1), p.532.
+5. Tan, L., Guo, Z., Wang, X., Kim, D. Y., & **Li, R**. (2024). Utilization of nanopore direct RNA sequencing to analyze viral RNA modifications. Msystems, e01163-23.
+6Wang, X., Liu, X., Tan, L., Jahangiri, L., Cai, W., & **Li, R**. (2024). Chromosome level genome assembly and transcriptome analysis of E11 cells infected by tilapia lake virus. Fish & Shellfish Immunology, 148, 109505.
+7Ye, L., Liu, X., Ni, Y., Xu, Y., Zheng, Z., Chen, K., ... & **Li, R**#, Chen, S#. (2024). Comprehensive genomic and plasmid characterization of multidrug-resistant bacterial strains by R10. 4.1 nanopore sequencing. Microbiological Research, 283, 127666.
+
+### 2019-2023
+1. Ren, X., Shao, Y., Zhang, Y., Ni, Y., Bi, Y., & **Li, R**. (2023). Primerdiffer: a python command line module for large-scale primer design in haplotype genotyping. Bioinformatics, btad188.
+2. Liu, X., Ni, Y., Wang, D., Ye, S., Yang, M., Sun, X., Leung, A.Y.H#. and **Li, R#**., (2023). Unraveling the whole genome DNA methylation profile of zebrafish kidney marrow by Oxford Nanopore sequencing. Scientific Data, 10(1), p.532.
 7. Si, W., Ni, Y., Jiang, Q., Tan, L., Sparagano, O., **Li, R#**., & Yang, G#. (2023). Nanopore sequencing identifies differentially methylated genes in the central nervous system in experimental autoimmune encephalomyelitis. Journal of Neuroimmunology, 578134.
 8. Ni, Y., Liu, X., Simeneh, Z. M., Yang, M., & **Li, R**. (2023). Benchmarking of Nanopore R10. 4 and R9. 4.1 flow cells in single-cell whole-genome amplification and whole-genome shotgun sequencing. Computational and Structural Biotechnology Journal, 21, 2352-2364.
 9. Tan L,Zhang Y, Kim D#, **Li R#**. Insect-Specific Chimeric Viruses Potentiated Antiviral Responses and Inhibited Pathogenic Alphavirus Growth in Mosquito Cells. Microbiology Spectrum (2022): e03613-22. 

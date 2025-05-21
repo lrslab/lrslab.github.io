@@ -62,7 +62,7 @@ SHAO Yanwen, PhD student, <br> Applications in long read RNAseq sequencing.
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
 
 <img src="https://avatars.githubusercontent.com/u/52870888" width='150px'></td> <br>
-LI Ke, PhD student, <br> Application and analysis of non-conding repetitive sequences using bith long and short read sequencing.
+LI Ke, PhD student, <br> Application and analysis of non-conding repetitive sequences using both long and short read sequencing.
 <br>
 <a href="https://github.com/nimua" aria-label="Github">
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
@@ -73,8 +73,14 @@ WU Xinyao, PhD student, <br> Locating the F1 male sterility related gene using i
  <br> 
 
 <img src="https://avatars.githubusercontent.com/u/185667602" width='150px'></td> <br>
-JIANG Qingqiu, master student, <br> Currently working on the directRNA sequencing of TGEV.  
+JIANG Qingqiu, PhD student, <br> Currently working on the directRNA sequencing of TGEV.  
 <a href="https://github.com/Camellia-lucky" aria-label="Github">
+<i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
+ <br> 
+
+<img src="https://avatars.githubusercontent.com/u/211631211" width='150px'></td> <br>
+ZHOU You, PhD student, <br> Currently working on nanopore sequencing application in nematodes.  
+<a href="https://github.com/ZHOUYou-water" aria-label="Github">
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
  <br> 
 
