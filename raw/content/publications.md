@@ -10,7 +10,8 @@ title: Publications
 2. Liu, T., Liu, X., Dai, X., Huang, J., **Li, R.**, Wang, L. and Wang, X., 2025. Characterization of the ribosomal RNA methylase gene erm (A) and its promoter mutation in Campylobacter coli from chicken cecum. International Journal of Food Microbiology, 434, p.111138.
 3. Zhang, Y., Shao, Y., Liu, X., Zhong, L., Zhong, Z., Zeng, W., Zhang, J., Cai, W. and **Li, R.**, 2025. Chromosome-level genome assembly of black carp Mylopharyngodon piceus using Nanopore and Hi-C technologies. Scientific data, 12(1), p.145.
 4. GUO, Z., SHAO, Y., TAN, L., Lu, B., Deng, X., CHEN, S. and **Li, R.**, 2025. Enhanced Detection of RNA Modifications in Escherichia coli Utilizing Nanopore RNA004 Technology. bioRxiv, pp.2025-01.
-5. Zan, G.X., Qu, H.Z., Li, X.Y., Peng, Q.L., Wang, X.F., **Li, R.S.**, Zhao, Y.G., Yan, H.C., Zhou, J.Y. and Wang, X.Q., 2025. Iturin A Potentiates Differentiation of Intestinal Epithelial Defense Cells by Modulating Keap1/Nrf2 Signaling to Mitigate Oxidative Damage Induced by Heat-Stable Enterotoxin B. Antioxidants, 14(4), p.478.
+5. Wang, J., Liu, X., Shao, Y., **Li, R.#** and Paudel, S.#, 2025. Decoding the genome and epigenome of avian Escherichia coli strains by R10. 4.1 nanopore sequencing. Frontiers in Veterinary Science, 12, p.1541964.(#co-corresponding author) 
+6. Zan, G.X., Qu, H.Z., Li, X.Y., Peng, Q.L., Wang, X.F., **Li, R.S.**, Zhao, Y.G., Yan, H.C., Zhou, J.Y. and Wang, X.Q., 2025. Iturin A Potentiates Differentiation of Intestinal Epithelial Defense Cells by Modulating Keap1/Nrf2 Signaling to Mitigate Oxidative Damage Induced by Heat-Stable Enterotoxin B. Antioxidants, 14(4), p.478.
 
 
 ### 2024
@@ -19,8 +20,8 @@ title: Publications
 3. Liu, X., Shao, Y., Guo, Z., Ni, Y., Sun, X., Leung, A. Y. H., & **Li, R.** (2024). Giraffe: a tool for comprehensive processing and visualization of multiple long-read sequencing data. CSBJ, 2024.
 4. Guo, Z., Ni, Y., Tan, L., Shao, Y., Ye, L., Chen, S., & **Li, R**. (2024). Nanopore Current Events Magnifier (nanoCEM): a novel tool for visualizing current events at modification sites of nanopore sequencing. NAR Genomics and Bioinformatics, 6(2), lqae052.
 5. Tan, L., Guo, Z., Wang, X., Kim, D. Y., & **Li, R**. (2024). Utilization of nanopore direct RNA sequencing to analyze viral RNA modifications. Msystems, e01163-23.
-6Wang, X., Liu, X., Tan, L., Jahangiri, L., Cai, W., & **Li, R**. (2024). Chromosome level genome assembly and transcriptome analysis of E11 cells infected by tilapia lake virus. Fish & Shellfish Immunology, 148, 109505.
-7Ye, L., Liu, X., Ni, Y., Xu, Y., Zheng, Z., Chen, K., ... & **Li, R**#, Chen, S#. (2024). Comprehensive genomic and plasmid characterization of multidrug-resistant bacterial strains by R10. 4.1 nanopore sequencing. Microbiological Research, 283, 127666.
+6. Wang, X., Liu, X., Tan, L., Jahangiri, L., Cai, W., & **Li, R**. (2024). Chromosome level genome assembly and transcriptome analysis of E11 cells infected by tilapia lake virus. Fish & Shellfish Immunology, 148, 109505.
+7. Ye, L., Liu, X., Ni, Y., Xu, Y., Zheng, Z., Chen, K., ... & **Li, R**#, Chen, S#. (2024). Comprehensive genomic and plasmid characterization of multidrug-resistant bacterial strains by R10. 4.1 nanopore sequencing. Microbiological Research, 283, 127666.
 
 ### 2019-2023
 1. Ren, X., Shao, Y., Zhang, Y., Ni, Y., Bi, Y., & **Li, R**. (2023). Primerdiffer: a python command line module for large-scale primer design in haplotype genotyping. Bioinformatics, btad188.
