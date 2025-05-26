@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5f250a4f-d88c-4c22-9470-b82858dd6af2" name="Changes" comment="update members">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/raw/content/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/raw/content/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw/content/members.md" beforeDir="false" afterPath="$PROJECT_DIR$/raw/content/members.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +144,8 @@
       <workItem from="1729144355956" duration="433000" />
       <workItem from="1729474740839" duration="1666000" />
       <workItem from="1747796932322" duration="1277000" />
-      <workItem from="1748158886664" duration="135000" />
+      <workItem from="1748158886664" duration="165000" />
+      <workItem from="1748266343995" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="update main">
       <created>1670496727056</created>

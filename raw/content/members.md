@@ -62,7 +62,7 @@ SHAO Yanwen, PhD student, <br> Applications in long read RNAseq sequencing.
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
 
 <img src="https://avatars.githubusercontent.com/u/52870888" width='150px'></td> <br>
-LI Ke, PhD student, <br> Application and analysis of non-conding repetitive sequences using both long and short read sequencing.
+LI Ke, PhD student, <br> Application and analysis of non-coding repetitive sequences using both long and short read sequencing.
 <br>
 <a href="https://github.com/nimua" aria-label="Github">
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
