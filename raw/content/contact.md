@@ -5,10 +5,10 @@ title: Contact
 
 We have open positions for research postgraduate students (PhD program). Please send your CV and your github account to PI's email if interested. 
 
-### update on 2025/05/21
+### update on 2025/08/18
 We have PhD positions open for applications. The successful candidates will work on the following projects:
-1. Genetics related research on hybrid incompatibility between _C. briggsae_ and _C. nigoni_.
-2. Method development for DNA/RNA modification finding using nanopore sequencing. 
+1. Genetics related research on hybrid incompatibility between _C. briggsae_ and _C. nigoni_ (mostly web lab).
+2. Method development for DNA/RNA modification finding using nanopore sequencing (Dry lab). 
 
 The basic requirements for the candidates are:
 

@@ -61,12 +61,6 @@ SHAO Yanwen, PhD student, <br> Applications in long read RNAseq sequencing.
 <a href="https://github.com/sz1875597589" aria-label="Github">
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
 
-<img src="https://avatars.githubusercontent.com/u/52870888" width='150px'></td> <br>
-LI Ke, PhD student, <br> Application and analysis of non-coding repetitive sequences using both long and short read sequencing.
-<br>
-<a href="https://github.com/nimua" aria-label="Github">
-<i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-
 
 <img src="/images/members/wxy.jpeg" width='150px'><br>
 WU Xinyao, PhD student, <br> Locating the F1 male sterility related gene using introgression strains between _C. briggsae_ and _C. nigoni_. 
@@ -83,15 +77,22 @@ ZHOU You, PhD student, <br> Currently working on nanopore sequencing application
 <a href="https://github.com/ZHOUYou-water" aria-label="Github">
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
  <br> 
-
     
 </tr> 
 
 <tr> 
-Former Lab Members:<br> 
-TAN Lu, PhD student from 2020-2023, now postdoc at university of iowa. 
-<a href="https://scholars.cityu.edu.hk/en/persons/lu-tan(555e8ede-cc0f-4da9-b9b3-62ef54de27a4).html" aria-label="GoogleScholar">    
+Former Lab Members:
+<br> 
+Dr. TAN Lu, PhD student from 2020-2023, now postdoc at university of iowa. 
+<a href="https://scholars.cityu.edu.hk/en/persons/lutan3" aria-label="GoogleScholar">    
 <i class=" ai ai-google-scholar ai-2x" style="font-size: 150%;"></i></a> <br>
+Dr. NI Ying, PhD student from 2020-2024, now postdoc at Hong Kong polytechnic University. 
+<a href="https://scholars.cityu.edu.hk/en/persons/yingni2" aria-label="GoogleScholar">
+<i class=" ai ai-google-scholar ai-2x" style="font-size: 150%;"></i></a> <br>
+
+</tr> 
+
+<tr> 
 </tr> 
 
 <br>

@@ -7,11 +7,16 @@ title: Publications
 
 ### 2025
 1. Lu, B., Guo, Z., Liu, X., Ni, Y., Xu, L., Huang, J., Li, T., Feng, T., **Li, R.**# and Deng, X.#, 2025. Comprehensive comparison of the third-generation sequencing tools for bacterial 6mA profiling. Nature Communications, 16(1), p.3982. (#co-corresponding author)
-2. Liu, T., Liu, X., Dai, X., Huang, J., **Li, R.**, Wang, L. and Wang, X., 2025. Characterization of the ribosomal RNA methylase gene erm (A) and its promoter mutation in Campylobacter coli from chicken cecum. International Journal of Food Microbiology, 434, p.111138.
-3. Zhang, Y., Shao, Y., Liu, X., Zhong, L., Zhong, Z., Zeng, W., Zhang, J., Cai, W. and **Li, R.**, 2025. Chromosome-level genome assembly of black carp Mylopharyngodon piceus using Nanopore and Hi-C technologies. Scientific data, 12(1), p.145.
-4. GUO, Z., SHAO, Y., TAN, L., Lu, B., Deng, X., CHEN, S. and **Li, R.**, 2025. Enhanced Detection of RNA Modifications in Escherichia coli Utilizing Nanopore RNA004 Technology. bioRxiv, pp.2025-01.
-5. Wang, J., Liu, X., Shao, Y., **Li, R.#** and Paudel, S.#, 2025. Decoding the genome and epigenome of avian Escherichia coli strains by R10. 4.1 nanopore sequencing. Frontiers in Veterinary Science, 12, p.1541964.(#co-corresponding author) 
-6. Zan, G.X., Qu, H.Z., Li, X.Y., Peng, Q.L., Wang, X.F., **Li, R.S.**, Zhao, Y.G., Yan, H.C., Zhou, J.Y. and Wang, X.Q., 2025. Iturin A Potentiates Differentiation of Intestinal Epithelial Defense Cells by Modulating Keap1/Nrf2 Signaling to Mitigate Oxidative Damage Induced by Heat-Stable Enterotoxin B. Antioxidants, 14(4), p.478.
+2. Zhang, Y., Shao, Y., Liu, X., Zhong, L., Zhong, Z., Zeng, W., Zhang, J., Cai, W. and **Li, R.**, 2025. Chromosome-level genome assembly of black carp Mylopharyngodon piceus using Nanopore and Hi-C technologies. Scientific data, 12(1), p.145.
+3. Shao Y, Zhang Y, Ren X, Ho VW, Bi Y, Zhao Z, **Li R**. RNA-sequencing Analysis of Hybrid Females Reveals a Dominance of Expression of Alleles From Outcrossing Species Over Those From Selfing Species. Genome Biology and Evolution. 2025 Jun;17(6):evaf098.
+3. GUO, Z., SHAO, Y., TAN, L., Lu, B., Deng, X., CHEN, S. and **Li, R.**, 2025. Enhanced Detection of RNA Modifications in Escherichia coli Utilizing Nanopore RNA004 Technology. Cell reports methods, pp.2025-01.
+4. Yanwen SHAO, Zhihao GUO, Jinpeng CHEN, **Runsheng LI**, 2025. SLRanger: an integrated approach for spliced leader detection and operon prediction using long RNA reads. Briefings in Bioinformatics, 26(1), p.bbac490.
+4. Wang, J., Liu, X., Shao, Y., **Li, R.#** and Paudel, S.#, 2025. Decoding the genome and epigenome of avian Escherichia coli strains by R10. 4.1 nanopore sequencing. Frontiers in Veterinary Science, 12, p.1541964.(#co-corresponding author) 
+6. Liu, T., Liu, X., Dai, X., Huang, J., **Li, R.**, Wang, L. and Wang, X., 2025. Characterization of the ribosomal RNA methylase gene erm (A) and its promoter mutation in Campylobacter coli from chicken cecum. International Journal of Food Microbiology, 434, p.111138.
+7. Nelson KL Ng, Stephen SY Lam, Lichuan Zheng, Xingliang Liu, Mingxuan Liang, Lam Ng, Koon C Chan, Chun X Zhang, Rachel LS Tse, Arthur KL Cheung, Ho-Wan Ip, Chun H Au, Edmond SK Ma, Chi T Ng, Ying Ni, **Run S Li**, Guang S Ling, Suet Y Leung, Asif Javed, Anskar YH Leung. Mechanism of Initial Favorable Response to Decitabine in TP53-Mutated MDS/AML and Potential Mechanisms of Subsequent Relapse. Clinical Cancer Research. 2025 May 21:OF1-4.
+8. Hu TC, Dou CX, Huang Q, Wang XF, Yan HC, Zhou JY, **Li RS**, Zhao YG, Wang XQ. IP3R-dependent Ca2+ signaling in the endoplasmic reticulum is required for deoxynivalenol-induced intestinal stem cell injury. Biochemical Pharmacology. 2025 Aug 9:117228.
+5. Zan, G.X., Qu, H.Z., Li, X.Y., Peng, Q.L., Wang, X.F., **Li, R.S.**, Zhao, Y.G., Yan, H.C., Zhou, J.Y. and Wang, X.Q., 2025. Iturin A Potentiates Differentiation of Intestinal Epithelial Defense Cells by Modulating Keap1/Nrf2 Signaling to Mitigate Oxidative Damage Induced by Heat-Stable Enterotoxin B. Antioxidants, 14(4), p.478.
+6. Dou CX, Qu HZ, Qin YC, Wang XF, Yan HC, **Li RS**, Zhao YG, Zhou JY, Wang XQ. TSC2/mTORC1 integrates deoxynivalenol signals recognized by membrane receptors IR and EGFR to restrict intestinal stem cell function. Journal of Hazardous Materials. 2025 May 29:138769.
 
 
 ### 2024
