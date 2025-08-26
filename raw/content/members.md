@@ -19,7 +19,7 @@ title: Members
    <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/lrs.png" width='200px'></td>
     <td style="border:none;"><strong>LI Runsheng (李润生), DVM, PhD.<br>
-        Assistant Professor, PI </strong><br>
+        Associate Professor, PI </strong><br>
         Department of Infectious Diseases and Public Health, City University of Hong Kong
         <br>
         <a href="https://github.com/runsheng/" aria-label="Github">
