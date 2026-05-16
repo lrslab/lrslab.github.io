@@ -51,9 +51,8 @@ Associate Professor, PI Department of Infectious Diseases and Public Health, Cit
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://lrslab.github.io/software/</guid>
-      <description>Hammerhead - [Python] - Hammerhead is a pipeline for the detection of bacterial DNA modifications and fix modification induced assembly error from Nanopore R10.4.1 reads. Published in Genome Research, 2024
-nanoCEM -[Python] - The nanopore current events magnifier (nanoCEM) is a python command line to facilitate the analysis of DNA/RNA modification sites by visualizing statistical features of current events. Published in NARGAB, 2024
-Giraffe - [Python] - Giraffe is used for long read QC, can be used to calculate and visualize basic statistics for nanopore/pacbio long reads, including observed/estimated read quality; gc bias for reads; homopolymer accuracy and others.</description>
+      <description>1. DNA/RNA modification detection and analysis tools Link to heading Hammerhead - [Python] - Hammerhead is a pipeline for the detection of bacterial DNA modifications and fix modification induced assembly error from Nanopore R10.4.1 reads. Published in Genome Research, 2024
+nanoSundial - [Python] - nanoSundial is a python command line tool to facilitate the de novo finding of DNA/RNA modification sites by signal compare. Published in Cell reports methods, 2025</description>
     </item>
     
   </channel>
