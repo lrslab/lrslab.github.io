@@ -17,7 +17,7 @@ title: Software
  ## 2. RNA splicing and isoform analysis tools
   
 - [trackcluster](https://github.com/runsheng/trackcluster) -[Python] - trackcluster is an isoform calling and quantification pipeline for long RNA/cDNA reads. [Published in _**Genome Research, 2020**_](https://genome.cshlp.org/content/30/2/287.short)
-  - <img src="https://genome.cshlp.org/content/30/2/287/F2.large.jpg"  width="300">
+  - <img src="/images/trackcluster.png"  width="300">
 
 - [trackcluster-rs](https://github.com/lrslab/trackcluster-rs) [Rust] -trackcluster-rs is a rust re-write of trackcluster with the same algorithm but faster processing for large dataset. 
 

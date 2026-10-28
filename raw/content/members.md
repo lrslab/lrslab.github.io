@@ -66,14 +66,10 @@ LIU Xudong, PhD student, <br> Developing genome scaffolding methods using DNA mo
 <img src="/images/members/minion2.jpg" width='150px'></td> <br>
 CHEN Kaixin, PhD student, <br> Single cell/CTC DNA methylation detection method development and applications.
 <br>
-<a href="https://github.com/lxd98" aria-label="Github">
-<i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
 
 <img src="/images/members/minion2.jpg" width='150px'></td> <br>
 SUN Yawen, PhD student, <br> Hybrid incompatibility between _C. briggsae_ and _C. nigoni_.
 <br>
-<a href="https://github.com/lxd98" aria-label="Github">
-<i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
  
 </tr> 
 
