@@ -12,14 +12,14 @@ We have PhD positions open for applications. The successful candidates will work
 
 The basic requirements for the candidates are:
 
-Dry lab: 
 
-1. A bachelor/master degree on bioinformatics, computational biology, computer science, statistics, or related fields.
-2. Knowing at least one program language, like Python, R, Javascript, Rust or C++.
 
 Wet lab:
-
 1. Know basic worm handling, like worm injection, screening and maintaining.
+
+Dry lab:
+1. A bachelor/master degree on bioinformatics, computational biology, computer science, statistics, or related fields.
+2. Knowing at least one program language, like Python, R, Javascript, Rust or C++.
 
 Email: Runsheng.li AT CityU.edu.hk
 

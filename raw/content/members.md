@@ -38,22 +38,6 @@ title: Members
 
 <tr>
 
-<img src="/images/members/minion2.jpg" width='150px'><br>
-ZHANG Yiwen, PhD student, <br> Hybrid incompatibility between _C. briggsae_ and _C. nigoni_. 
-<a href="https://scholars.cityu.edu.hk/en/persons/yiwen-zhang(363c3c5d-9603-4042-ae8c-539047a60983).html" aria-label="GoogleScholar">    
-<i class=" ai ai-google-scholar ai-2x" style="font-size: 150%;"></i></a> <br> 
-
-<img src="https://avatars.githubusercontent.com/u/76717431" width='150px'></td> <br>
-GUO Zhihao, PhD student, <br> Developing RNA modification calling methods in Nanopore direct-RNA sequencing.
-<br>
-<a href="https://github.com/JeremyQuo" aria-label="Github"> 
-<i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-
-<img src="https://avatars.githubusercontent.com/u/109017230" width='150px'></td> <br>
-LIU Xudong, Research assistant, <br> Developing genome scaffolding methods using DNA modification signals.
-<br>
-<a href="https://github.com/lxd98" aria-label="Github">
-<i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
 
 <img src="https://avatars.githubusercontent.com/u/97601038" width='150px'></td> <br>
 SHAO Yanwen, PhD student, <br> Applications in long read RNAseq sequencing.
@@ -67,17 +51,30 @@ WU Xinyao, PhD student, <br> Locating the F1 male sterility related gene using i
  <br> 
 
 <img src="https://avatars.githubusercontent.com/u/185667602" width='150px'></td> <br>
-JIANG Qingqiu, PhD student, <br> Currently working on the directRNA sequencing of TGEV.  
+JIANG Qingqiu, PhD student, <br> Currently working on the directRNA sequencing methods.  
 <a href="https://github.com/Camellia-lucky" aria-label="Github">
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
  <br> 
 
-<img src="https://avatars.githubusercontent.com/u/211631211" width='150px'></td> <br>
-ZHOU You, PhD student, <br> Currently working on nanopore sequencing application in nematodes.  
-<a href="https://github.com/ZHOUYou-water" aria-label="Github">
+<img src="https://avatars.githubusercontent.com/u/109017230" width='150px'></td> <br>
+LIU Xudong, PhD student, <br> Developing genome scaffolding methods using DNA modification signals.
+<br>
+<a href="https://github.com/lxd98" aria-label="Github">
 <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
- <br> 
-    
+
+
+<img src="/images/members/minion2.jpg" width='150px'></td> <br>
+CHEN Kaixin, PhD student, <br> Single cell/CTC DNA methylation detection method development and applications.
+<br>
+<a href="https://github.com/lxd98" aria-label="Github">
+<i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
+
+<img src="/images/members/minion2.jpg" width='150px'></td> <br>
+SUN Yawen, PhD student, <br> Hybrid incompatibility between _C. briggsae_ and _C. nigoni_.
+<br>
+<a href="https://github.com/lxd98" aria-label="Github">
+<i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
+ 
 </tr> 
 
 <tr> 
@@ -88,6 +85,12 @@ Dr. TAN Lu, PhD student from 2020-2023, now postdoc at university of iowa.
 <i class=" ai ai-google-scholar ai-2x" style="font-size: 150%;"></i></a> <br>
 Dr. NI Ying, PhD student from 2020-2024, now postdoc at Hong Kong polytechnic University. 
 <a href="https://scholars.cityu.edu.hk/en/persons/yingni2" aria-label="GoogleScholar">
+<i class=" ai ai-google-scholar ai-2x" style="font-size: 150%;"></i></a> <br>
+Dr. ZHANG Yiwen, PhD student from 2021-2025.  
+<a href="https://scholars.cityu.edu.hk/en/persons/yzhang2875/" aria-label="GoogleScholar">
+<i class=" ai ai-google-scholar ai-2x" style="font-size: 150%;"></i></a> <br>
+Dr. GUO Zhihao, PhD student from 2022-2026, now postdoc at CUHK 
+<a href="https://scholars.cityu.edu.hk/en/persons/zhihaguo/" aria-label="GoogleScholar">
 <i class=" ai ai-google-scholar ai-2x" style="font-size: 150%;"></i></a> <br>
 
 </tr> 

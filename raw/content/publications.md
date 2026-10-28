@@ -5,6 +5,25 @@ title: Publications
 
 ## Publications in recent five years:
 
+### 2026
+1. Tan, L., Guo, Z., Gu, G., Liu, X., Zhang, Y., Shao, Y., Chen, W., Kim, D. Y. and **Li, R.**, 2026. Production of abundant defective viral genomes by an insect-specific alphavirus revealed by nanopore sequencing. *Nature Communications*. https://doi.org/10.1038/s41467-026-78770-9.
+2. Lu, B., Feng, T., Xu, L., Liu, N., Li, T., Guo, Z., Wang, J., **Li, R.**, Yang, X., Chen, S. and Deng, X., 2026. Topology and evolution of global transcriptional regulatory networks across the Klebsiella pneumoniae pan-genome. *Nature Communications*. https://doi.org/10.1038/s41467-026-78154-z.
+3. Wu, X., Guo, Z., Shao, Y., Wang, X. and **Li, R.**#, 2026. Nanopore-based epigenomic profiling reveals the absence of widespread CpG methylation in the African swine fever virus genome. *Microbiological Research*, 313, p.128687.
+4. Jiang, Q., Guo, Z., Tan, L., Shao, Y., Gu, G., Zhao, X., Wang, H. and **Li, R.**, 2026. Nanopore direct RNA sequencing reveals transmissible gastroenteritis virus epitranscriptomic and transcriptomic landscapes modulated by gene 7. *Microbial Genomics*, 12(4), p.001684.
+5. Zhang, Y., Shao, Y., Gao, S., **Li, R.**# and Cai, W.#, 2026. Prolonged starvation drives epigenetic remodeling: Insights from DNA methylation profiling in the aquatic pathogen Flavobacterium columnare. *Water Biology and Security*, p.100604. (#co-corresponding authors)
+6. Guo, Z., Shao, Y., Tan, L. and **Li, R.**, 2026. Protocol for generating native and unmodified bacterial RNA for nanopore direct RNA sequencing and downstream analysis. *STAR Protocols*, 7(1), p.104279.
+7. Hou, C. and **Li, R.**, 2026. Replication-coupled hemimethylation in Escherichia coli K-12: mechanisms, dynamics, and emerging opportunities for direct observation. *Frontiers in Microbiology*, 17, p.1882318.
+8. Xu, L., Shen, S., Zhang, Y., Guo, Z., Lu, B., Huang, J., **Li, R.**, Shen, Y., Zhang, L.-S. and Deng, X., 2026. Quantitative RNA pseudouridine landscape reveals dynamic modification patterns and evolutionary conservation across bacterial species. *eLife*, 14, RP107545.
+9. Gao, S., Zhong, L., Zhang, Y., Zhu, R., Shao, Y., **Li, R.**, Zhu, Y. and Cai, W., 2026. Optimal Preservation Method for Long-term Preservation in ddH2O and Starvation Adaptive Mechanisms of Flavobacterium columnare Revealed by Multi-omic Analysis. *Microbial Ecology*, 89, p.112.
+10. Zhong, L., Yan, L., Ye, X., Sun, J., Lin, F., Liu, H., Yan, K., **Li, R.** and Cai, W., 2026. Isolation, identification, and whole-genome analysis of a highly virulent and multidrug-resistant Vibrio harveyi strain associated with mass mortality of Chu’s croaker (Nibea coibor). *Aquaculture Reports*, 48, p.103540.
+11. Wang, J., Bajagai, Y. S., Sajid, G. A., **Li, R.** and Paudel, S., 2026. Transcriptomic analysis reveals a crucial role of the yolk sac during Avian Pathogenic Escherichia coli infection in chicken embryos. *Poultry Science*, 105(6), p.106820.
+12. Wang, J., Bajagai, Y. S., Shao, Y., Sajid, G. A., **Li, R.** and Paudel, S., 2026. Transcriptional changes related to metabolic and iron acquisition strategies of avian pathogenic Escherichia coli are associated with embryonic survival during yolk sac infection. *Frontiers in Cellular and Infection Microbiology*, 16, p.1797806.
+13. Xu, L., Zhao, L., Tong, Z., Peng, K., Wang, M., **Li, R.**, Wang, Z. and Li, R., 2026. Nanopore Sequencing in Veterinary Pathogen Detection: A Review of Technologies and Applications. *Veterinary Sciences*, 13(3), p.216.
+14. Tang, L., Luo, Z., Gao, S., Lin, Z., Sun, M., **Li, R.**, Gao, S.-H., Wu, G., Li, Y., Huang, L. and Fan, L., 2026. A hot origin of dissimilatory sulfite reduction catalyzed by DsrAB in the Paleoarchean Era. *mLife*, 5(1), pp.108–121.
+15. Chu, J., Li, C., Liu, X., Methou, P., Chen, C., Matabos, M., Sarrazin, J., **Li, R.** and Sun, J., 2026. Deep learning to monitor the deep sea: a category-oriented automated framework for quantifying animal behavior at hydrothermal vents. *Limnology and Oceanography: Methods*, e70086.
+16. Zhang, Y., Garber, A. F., **Li, R.**, Cai, W. and Fast, M. D., 2026. Identification of SNPs Associated With Salmon Lice (Lepeophtheirus salmonis) Resistance in North American Atlantic Salmon Using Transcriptome-Wide Association Study. *Aquaculture Research*, 2026, Article 6046684.
+
+
 ### 2025
 1. Lu, B., Guo, Z., Liu, X., Ni, Y., Xu, L., Huang, J., Li, T., Feng, T., **Li, R.**# and Deng, X.#, 2025. Comprehensive comparison of the third-generation sequencing tools for bacterial 6mA profiling. Nature Communications, 16(1), p.3982. (#co-corresponding author)
 2. Zhang, Y., Shao, Y., Liu, X., Zhong, L., Zhong, Z., Zeng, W., Zhang, J., Cai, W. and **Li, R.**, 2025. Chromosome-level genome assembly of black carp Mylopharyngodon piceus using Nanopore and Hi-C technologies. Scientific data, 12(1), p.145.
